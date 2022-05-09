@@ -15,7 +15,6 @@ import time
 import cv2
 import os
 
-
 # GUI FILE
 from app_modules import *
 
